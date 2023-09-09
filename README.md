@@ -87,7 +87,7 @@ Próximos passos...
 
 ## 🔨 Decisões de Tecnologia
 
-* **Python** - Escolhi a linguagem de programação Python para fazer esse desafio porque é uma linguagem de alto nível, o que significa que ela abstrai muitos detalhes técnicos e permite que o programador se concentre na lógica do problema.
+* **Python**: Escolhi a linguagem de programação Python para fazer esse desafio porque é uma linguagem de alto nível, o que significa que ela abstrai muitos detalhes técnicos e permite que o programador se concentre na lógica do problema.
 É uma linguagem multiparadigma, o que significa que ela suporta diferentes estilos de programação como orientado a objetos por exemplo. Isso dá ao programador mais flexibilidade e expressividade para resolver o problema da forma que achar mais adequada.
 E por ser uma linguagem com uma sintaxe simples e clara, o que significa que ela é fácil de ler e escrever. Isso ajuda a evitar erros e a tornar o código mais legível e manutenível.
 Para armazenar os dados fiz através de um arquivo de texto porque seria uma forma simples e rápida de armazenar as informações dos pacientes, sem precisar instalar ou configurar um sistema de gerenciamento de banco de dados (SGBD) externo. Além disso, um arquivo de texto é fácil de ler e editar manualmente, se necessário, e pode ser usado por outras aplicações ou linguagens que saibam manipular arquivos. Um arquivo de texto também ocupa pouco espaço em disco e pode ser facilmente copiado ou transferido.
