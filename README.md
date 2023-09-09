@@ -85,8 +85,7 @@ Próximos passos...
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-## 🔨 Decisões de Tecnologia
-
+## 🔨 Tomada de Decisões
 * **Python**: Escolhi a linguagem de programação Python para fazer esse desafio porque é uma linguagem de alto nível, o que significa que ela abstrai muitos detalhes técnicos e permite que o programador se concentre na lógica do problema.
 É uma linguagem multiparadigma, o que significa que ela suporta diferentes estilos de programação como orientado a objetos por exemplo. Isso dá ao programador mais flexibilidade e expressividade para resolver o problema da forma que achar mais adequada.
 E por ser uma linguagem com uma sintaxe simples e clara, o que significa que ela é fácil de ler e escrever. Isso ajuda a evitar erros e a tornar o código mais legível e manutenível.
