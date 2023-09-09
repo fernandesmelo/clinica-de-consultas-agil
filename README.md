@@ -1,8 +1,6 @@
 # Clínica de Consultas Ágil
 
-Desenvolvir a [Clínica de Consultas Ágil](https://fernandesmelo.github.io/site-barbearia-jonys/)  através do desafio que recebi ao participar do processo seletivo do [Programa Aceleradora Ágil](https://www.linkedin.com/school/aceleradora-%C3%A1gil/mycompany/).
-
-[screen-capture.webm](https://github.com/fernandesmelo/site-barbearia-jonys/assets/113717317/4df82a2c-b74e-481a-a891-b9eb21d22e55)
+Desenvolvir a Clínica de Consultas Ágil através do desafio que recebi ao participar do processo seletivo do [Programa Aceleradora Ágil](https://www.linkedin.com/school/aceleradora-%C3%A1gil/mycompany/).
 
 ## 📝 Sobre o Desafio - Descrição
 Você foi contratado para desenvolver um sistema de clínica de consultas no seu bairro.
