@@ -54,7 +54,7 @@ usuário sair do sistema. Que funcionasse como uma espécie de “banco de dados
 - `Funcionalidade 1`: cadastar pacientes.
 - `Funcionalidade 2`: marcações de consultas.
 - `Funcionalidade 3`: cancelamento de consultas.
-- `Funcionalidade 4`: sair/Finalizar o programa.         
+- `Funcionalidade 4`: sair/finalizar o programa.         
 - `Funcionalidade 5`: armazenamento de dados.  
 
 ## 🚀 Começando
