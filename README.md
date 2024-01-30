@@ -70,7 +70,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 
 1. Clone este repositório:
    <br>
-   ```git clone https://github.com/fernandesmelo/criacao-de-layout.git```
+   ```git clone https://github.com/fernandesmelo/clinica-de-consultas-agil.git```
 
 2. Abra o Visual Studio Code:
    * Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
