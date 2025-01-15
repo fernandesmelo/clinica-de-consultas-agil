@@ -82,10 +82,6 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 ### 🎉 Parabéns!
 Agora você tem o projeto Python instalado e rodando localmente. Bom desenvolvimento!
 
-## ⚙️ Executando os Testes
-
-Próximos passos...
-
 ## 🛠️ Construído com
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -105,6 +101,8 @@ E por ser uma linguagem com uma sintaxe simples e clara, o que significa que ela
 
 * **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes/)
 
-## 🎁 Expressões de Gratidão
+## ⚙️ Executando os Testes
+Próximos passos...
 
+## 🎁 Expressões de Gratidão
 Agradeço a meu professor [Waldeck Lindoso](https://www.linkedin.com/in/waldeck-lindoso-jr-41a94840/) que me ajudou na realização desse desafio 🫂.
